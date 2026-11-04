@@ -24,5 +24,3 @@ Local speech to text that runs offline. I wanted my dictation private and on my 
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/kenmott/)
-
-Most of my work lives in private repos, which is why the graph looks busier than the pinned list.
